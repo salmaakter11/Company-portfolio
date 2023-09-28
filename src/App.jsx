@@ -8,6 +8,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Home></Home>
+      
       <About></About>
       <Service></Service>
     </>
